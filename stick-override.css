@@ -3,7 +3,10 @@
     background-position: 247px 55px;
 }
 
-.fight-stick .quadrant {
-    display: none;
+.fight-stick .arrows {
+	display: none;
 }
 
+.fight-stick .quadrant{
+	display: none;
+}
